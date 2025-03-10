@@ -1,0 +1,8 @@
+[package]
+name = "serial_terminal"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serialport = "4.2.0"
+termion = "1.5.6"
